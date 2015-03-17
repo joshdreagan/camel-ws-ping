@@ -1,0 +1,1 @@
+# Camel WS Ping
