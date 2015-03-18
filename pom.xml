@@ -130,6 +130,10 @@
         <configuration>
           <instructions>
             <Export-Package>!*</Export-Package>
+            <Import-Package>
+              org.apache.camel.component.http4,
+              *
+            </Import-Package>
           </instructions>
         </configuration>
       </plugin>
